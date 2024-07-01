@@ -4,3 +4,4 @@ cat /c/Users/DELL/.ssh/id_rsa.pub | clip
 git remote add origin git@github.com......
 git push --set-upstream origin master
 
+very imp commands
