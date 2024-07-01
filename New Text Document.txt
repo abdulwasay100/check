@@ -1,14 +1,5 @@
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 884ed9dedbc74641a627da0d2603a7193d0dd42c
 cat /c/Users/DELL/.ssh/id_rsa.pub | clip
-
-
 git remote add origin git@github.com......
-=======
 git push --set-upstream origin master
-
->>>>>>> commit-hash
 very imp commands
